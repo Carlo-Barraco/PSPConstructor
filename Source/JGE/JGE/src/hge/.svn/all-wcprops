@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge
+END
+hgepmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgepmanager.cpp
+END
+hgerect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgerect.cpp
+END
+hgecolor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgecolor.cpp
+END
+hgevector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgevector.cpp
+END
+hgeparticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgeparticle.cpp
+END
+hgefont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgefont.cpp
+END
+hgedistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/JGE/JGE/src/hge/hgedistort.cpp
+END

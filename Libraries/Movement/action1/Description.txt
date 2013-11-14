@@ -1,0 +1,1 @@
+Sets the vertical speed of the object

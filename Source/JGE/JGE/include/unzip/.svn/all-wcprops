@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip
+END
+iowin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip/iowin32.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip/crypt.h
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip/zip.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip/unzip.h
+END
+mztools.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/include/unzip/mztools.h
+END

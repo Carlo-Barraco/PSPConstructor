@@ -1,0 +1,3 @@
+pspconstructor.Properties.SpriteProperties
+pspconstructor.Properties.imgFilter
+pspconstructor.Properties.spriteDrawer

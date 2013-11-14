@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftoutln.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/fttrigon.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftcache.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftsynth.h
+END
+ttunpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ttunpat.h
+END
+ftstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftstroke.h
+END
+ftmodapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftmodapi.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftchapters.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftlist.h
+END
+ftlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftlzw.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/tttags.h
+END
+ftincrem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftincrem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftrender.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftglyph.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/t1tables.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftsnames.h
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/tttables.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftmoderr.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/freetype.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftbdf.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftsizes.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/fttypes.h
+END
+ftwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftwinfnt.h
+END
+ftsysio.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftsysio.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/fterrdef.h
+END
+ftgzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftgzip.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftmm.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ttnameid.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/fterrors.h
+END
+ftsysmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftsysmem.h
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftimage.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftsystem.h
+END
+ftpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftpfr.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftbbox.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/freetype/ftxf86.h
+END

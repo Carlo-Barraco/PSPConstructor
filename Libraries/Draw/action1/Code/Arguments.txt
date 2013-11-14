@@ -1,0 +1,8 @@
+String
+X:
+String
+Y:
+String
+Radius:
+Color
+Color:

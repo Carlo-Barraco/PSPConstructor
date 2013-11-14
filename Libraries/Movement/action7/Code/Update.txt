@@ -1,0 +1,17 @@
+if (JGE::GetInstance()->GetAnalogY()<100)
+{
+Y+=-3;
+}
+if (JGE::GetInstance()->GetAnalogY()>155)
+{
+Y+=3;
+}
+if (JGE::GetInstance()->GetAnalogX()<100)
+{
+X+=-3;
+}
+
+if (JGE::GetInstance()->GetAnalogX()>155)
+{
+X+=3;
+}

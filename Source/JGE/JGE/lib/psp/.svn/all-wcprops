@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/123/trunk/JGE/JGE/lib/psp
+END
+libz.a
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/JGE/JGE/lib/psp/libz.a
+END
+libjinput.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112/trunk/JGE/JGE/lib/psp/libjinput.a
+END
+libmikmod.a
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/JGE/JGE/lib/psp/libmikmod.a
+END
+libfreetype.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/lib/psp/libfreetype.a
+END
+libpng.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/JGE/JGE/lib/psp/libpng.a
+END
+libhgetools.a
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/112/trunk/JGE/JGE/lib/psp/libhgetools.a
+END
+libgif.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/JGE/JGE/lib/psp/libgif.a
+END
+libjpeg.a
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/JGE/JGE/lib/psp/libjpeg.a
+END
+libjge100.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112/trunk/JGE/JGE/lib/psp/libjge100.a
+END
+libjge300.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112/trunk/JGE/JGE/lib/psp/libjge300.a
+END

@@ -1,0 +1,20 @@
+if (JGE::GetInstance()->GetButtonState(PSP_CTRL_UP))
+
+{
+
+Y+=-arg0;
+}
+
+if (JGE::GetInstance()->GetButtonState(PSP_CTRL_DOWN))
+
+{
+Y+=arg0;
+}
+if (JGE::GetInstance()->GetButtonState(PSP_CTRL_LEFT))
+{
+X+=-arg0;
+}
+if (JGE::GetInstance()->GetButtonState(PSP_CTRL_RIGHT))
+{
+X+=arg0;
+}

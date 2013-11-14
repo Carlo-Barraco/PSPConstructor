@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib
+END
+freetype.def
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/freetype.def
+END
+libpng.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/libpng.lib
+END
+giflib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/giflib.lib
+END
+libjpeg-static-mt.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/libjpeg-static-mt.pdb
+END
+fmodvc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/fmodvc.lib
+END
+libpngd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/libpngd.lib
+END
+libjpeg-static-mt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/libjpeg-static-mt.lib
+END
+libjpeg-static-mt-debug.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/libjpeg-static-mt-debug.pdb
+END
+freetype.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/freetype.lib
+END
+libjpeg-static-mt-debug.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/libjpeg-static-mt-debug.lib
+END
+zlibd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/zlibd.lib
+END
+zdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/lib/zdll.lib
+END

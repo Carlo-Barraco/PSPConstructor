@@ -1,0 +1,16 @@
+float a = atan2(arg1-Y,arg0-X);
+float d = sqrt((arg0-X)*(arg0-X)+(arg1-Y)*(arg1-Y));
+if (d>=arg2)
+{
+X+=arg2*cos(a);
+}else
+{
+X=arg0;
+}
+if (d>=arg2)
+{
+Y+=arg2*sin(a);
+}else
+{
+Y=arg1;
+}

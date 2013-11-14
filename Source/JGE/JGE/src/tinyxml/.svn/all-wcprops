@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml/tinyxmlerror.cpp
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml/tinyxmlparser.cpp
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml/tinystr.h
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml/tinyxml.cpp
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml/tinyxml.h
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/src/tinyxml/tinystr.cpp
+END

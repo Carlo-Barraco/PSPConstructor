@@ -1,0 +1,10 @@
+String
+X:
+String
+Y:
+String
+Width:
+String
+Height:
+Color
+Color:

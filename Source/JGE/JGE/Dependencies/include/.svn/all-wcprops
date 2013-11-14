@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/pngconf.h
+END
+gif_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/gif_lib.h
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/ft2build.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/jpeglib.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/zconf.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/jconfig.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/zlib.h
+END
+fmoddyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/fmoddyn.h
+END
+wincompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/wincompat.h
+END
+fmod_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/fmod_errors.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/jerror.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/png.h
+END
+fmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/include/fmod.h
+END

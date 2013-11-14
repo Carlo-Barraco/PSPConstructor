@@ -1,0 +1,14 @@
+﻿Build started 05/08/2011 1:00:09 AM.
+     1>Project "C:\Users\Carlo\My Stuff\Home\Programming\Programming\Java\Projects\PSPConstructor\Source\Game\Game\Game\Game.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Carlo\My Stuff\Home\Programming\Programming\Java\Projects\PSPConstructor\Source\Game\Game\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Game.unsuccessfulbuild".
+         Touching "Debug\Game.lastbuildstate".
+     1>Done Building Project "C:\Users\Carlo\My Stuff\Home\Programming\Programming\Java\Projects\PSPConstructor\Source\Game\Game\Game\Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

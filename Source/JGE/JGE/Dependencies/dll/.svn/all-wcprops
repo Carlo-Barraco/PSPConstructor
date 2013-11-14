@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll
+END
+fmod.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/fmod.dll
+END
+zlib1d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/zlib1d.dll
+END
+freetype6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/freetype6.dll
+END
+libpng13.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/libpng13.dll
+END
+giflib4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/giflib4.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/zlib1.dll
+END
+libpng13d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/JGE/JGE/Dependencies/dll/libpng13d.dll
+END

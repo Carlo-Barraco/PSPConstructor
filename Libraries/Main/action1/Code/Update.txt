@@ -1,0 +1,1 @@
+JSoundSystem::GetInstance()->PlayMusic(arg0);

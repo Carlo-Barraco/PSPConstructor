@@ -1,0 +1,12 @@
+String
+X1:
+String
+Y1:
+String
+X2:
+String
+Y2:
+String
+Thickness:
+Color
+Color:

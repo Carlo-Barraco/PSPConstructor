@@ -1,0 +1,1 @@
+Spins the object at the desired speed (CCW)

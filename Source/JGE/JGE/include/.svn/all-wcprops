@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/108/trunk/JGE/JGE/include
+END
+JParticleEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/JGE/JGE/include/JParticleEffect.h
+END
+JApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JApp.h
+END
+JFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/JGE/JGE/include/JFileSystem.h
+END
+JLBFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JLBFont.h
+END
+JGBKFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/84/trunk/JGE/JGE/include/JGBKFont.h
+END
+JGE.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JGE.h
+END
+JOBJModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/JGE/JGE/include/JOBJModel.h
+END
+JParticleEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26/trunk/JGE/JGE/include/JParticleEmitter.h
+END
+JAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JAudio.h
+END
+JAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JAssert.h
+END
+JCooleyesMP3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JCooleyesMP3.h
+END
+JRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/91/trunk/JGE/JGE/include/JRenderer.h
+END
+JParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/JGE/JGE/include/JParticleSystem.h
+END
+JAnimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JAnimator.h
+END
+JTTFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JTTFont.h
+END
+Vector3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/JGE/JGE/include/Vector3D.h
+END
+JResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JResourceManager.h
+END
+JGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JGui.h
+END
+decoder_prx.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/include/decoder_prx.h
+END
+JSpline.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JSpline.h
+END
+JGameLauncher.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JGameLauncher.h
+END
+vram.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/JGE/JGE/include/vram.h
+END
+JSoundSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JSoundSystem.h
+END
+JGameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JGameObject.h
+END
+JParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26/trunk/JGE/JGE/include/JParticle.h
+END
+JMD2Model.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/JGE/JGE/include/JMD2Model.h
+END
+JTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/108/trunk/JGE/JGE/include/JTypes.h
+END
+JInputSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/JGE/JGE/include/JInputSystem.h
+END
+JSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JSprite.h
+END
+JDistortionMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/JGE/JGE/include/JDistortionMesh.h
+END
+Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/JGE/JGE/include/Encoding.h
+END
+Vector2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/JGE/JGE/include/Vector2D.h
+END

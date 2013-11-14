@@ -1,0 +1,1 @@
+Fires the particle system at the object's current position
